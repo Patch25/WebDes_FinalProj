@@ -56,7 +56,7 @@ div.center{
     border: 15px solid rgb(210, 159, 255);
     padding: 50px;
     margin: auto;
-    background-color: white;
+    background-color: rgb(249, 242, 236) ;
     text-align: center;
 }
 #hobby-list{
