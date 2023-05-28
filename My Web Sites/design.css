@@ -9,23 +9,12 @@ h1{
     font-size: 350%;
     color: rgb(211, 137, 192);
 }
-video
-{
-    border: 10px solid rgb(144, 235, 236);
-    width: 50%;
-    height: 40%;
-}
-Audio
-{
-    border: 12px solid  rgb(211, 137, 192);
-    width: 50%;
-    length: 40%;
-}
+
 img
 {
     border: 10px solid rgb(144, 235, 236);
-    width: 45%;
-    height: 30%;
+    width: 30%;
+    height: 20%;
 }
 h2{
     text-align: center;
