@@ -10,7 +10,7 @@ h1{
 }
 img
 {
-    border: 10px solid rgb(255, 128, 128);
+    border: 10px solid rgb(153, 102, 51);
     width: 30%;
     height: 20%;
 }
@@ -37,7 +37,6 @@ h5{
     font-style: normal ;
     font-size: 70%;
     color: rgb(133, 105, 71);
-    background: rgb(252, 222, 226);
  font-size: 20px;
 }
 marquee{
