@@ -52,7 +52,7 @@ div.center{
 }
 .Content-box{  
     width: 500px;
-    border: 15px solid rgb(51, 26, 0);
+    border: 15px solid rgb(115, 77, 38);
     padding: 50px;
     margin: auto;
     background-color: rgb(249, 242, 236) ;
@@ -68,7 +68,7 @@ div.center{
     text-align: center;
 }
 button.go-back-btn{
-    background-color: rgb(51, 26, 0);
+    background-color: rgb(128, 62, 0);
     color: white;
     height: 95%;
     width: 25%;
